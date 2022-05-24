@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="b">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sun/security/provider/PolicyParser/ExtDirsB/b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

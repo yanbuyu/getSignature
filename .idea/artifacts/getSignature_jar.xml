@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="getSignature.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getSignature_jar</output-path>
+    <root id="archive" name="getSignature.jar">
+      <element id="module-output" name="getSignature" />
+    </root>
+  </artifact>
+</component>

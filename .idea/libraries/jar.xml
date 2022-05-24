@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sun/net/www/protocol/jar/foo2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sun/net/www/protocol/jar/bar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sun/net/www/protocol/jar/foo1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sun/net/www/protocol/jar/foo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sun/net/www/protocol/jar/resource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sun/awt/AppContext/AppContext.iml" filepath="$PROJECT_DIR$/sun/awt/AppContext/AppContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/awt/awt.iml" filepath="$PROJECT_DIR$/sun/awt/awt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/awt/dnd/dnd.iml" filepath="$PROJECT_DIR$/sun/awt/dnd/dnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getSignature.iml" filepath="$PROJECT_DIR$/getSignature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/jvmstat/jvmstat.iml" filepath="$PROJECT_DIR$/sun/jvmstat/jvmstat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/util/locale/locale.iml" filepath="$PROJECT_DIR$/sun/util/locale/locale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/rmi/log/log.iml" filepath="$PROJECT_DIR$/sun/rmi/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/jvmstat/monitor/monitor.iml" filepath="$PROJECT_DIR$/sun/jvmstat/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/nio/nio.iml" filepath="$PROJECT_DIR$/sun/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/jvmstat/perfdata/perfdata.iml" filepath="$PROJECT_DIR$/sun/jvmstat/perfdata/perfdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/reflect/reflect.iml" filepath="$PROJECT_DIR$/sun/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/util/resources/resources.iml" filepath="$PROJECT_DIR$/sun/util/resources/resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/rmi/runtime/runtime.iml" filepath="$PROJECT_DIR$/sun/rmi/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/rmi/server/server.iml" filepath="$PROJECT_DIR$/sun/rmi/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/sun.iml" filepath="$PROJECT_DIR$/sun/sun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/text/text.iml" filepath="$PROJECT_DIR$/sun/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/tools/tools.iml" filepath="$PROJECT_DIR$/sun/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/rmi/transport/transport.iml" filepath="$PROJECT_DIR$/sun/rmi/transport/transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun/util/util.iml" filepath="$PROJECT_DIR$/sun/util/util.iml" />
+    </modules>
+  </component>
+</project>
