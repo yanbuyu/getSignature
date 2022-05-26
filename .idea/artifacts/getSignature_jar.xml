@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/getSignature_jar</output-path>
     <root id="archive" name="getSignature.jar">
       <element id="module-output" name="getSignature" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/sun.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

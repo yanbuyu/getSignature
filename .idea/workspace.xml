@@ -9,7 +9,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d16877-6e49-4600-922c-ef9d1922c023" name="变更" comment="" />
+    <list default="true" id="01d16877-6e49-4600-922c-ef9d1922c023" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/getSignature_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/getSignature_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/linjinbin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/linjinbin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/A.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/antlr_runtime_3_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_guava_guava_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jarsigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/loader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/testclasses.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getSignature.iml" beforeDir="false" afterPath="$PROJECT_DIR$/getSignature.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getSignature.jar" beforeDir="false" afterPath="$PROJECT_DIR$/getSignature.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/antlr-runtime-3.5.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/antlr-runtime-3.5.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/guava-18.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/guava-18.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/support-annotations-25.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/support-annotations-25.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/mt/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/android/util/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/android/util/SparseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/android/util/TypedValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/android/util/TypedValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/io/ZInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/io/ZInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/io/ZOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/io/ZOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/signer/ApkSigner.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/signer/ApkSigner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/signer/key/BaseSignatureKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/signer/key/BaseSignatureKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/signer/key/KeystoreKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/signer/key/KeystoreKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/util/StreamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/util/StreamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/util/StringDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/util/StringDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/xml/decode/AXmlDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/xml/decode/AXmlDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/xml/decode/AXmlResourceParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/xml/decode/AXmlResourceParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/xml/decode/XmlPullParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/xml/decode/XmlPullParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/CopyEntryCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/CopyEntryCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ExtractCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ExtractCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/JarMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/JarMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/UnixStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/UnixStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipShort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/ZipUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/ZipUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/encoding/DetectEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/encoding/DetectEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/encoding/FallbackZipEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/encoding/FallbackZipEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/encoding/ZipEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/encoding/ZipEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/encoding/ZipEncodingHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/encoding/ZipEncodingHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/AbstractUnicodeExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/AbstractUnicodeExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/AsiExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/AsiExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/CentralDirectoryParsingZipExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/CentralDirectoryParsingZipExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/ExtraFieldUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/ExtraFieldUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnicodeCommentExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnicodeCommentExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnicodePathExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnicodePathExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnparseableExtraFieldData.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnparseableExtraFieldData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnrecognizedExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/UnrecognizedExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt/bin/zip/extrafield/ZipExtraField.java" beforeDir="false" afterPath="$PROJECT_DIR$/mt/bin/zip/extrafield/ZipExtraField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/binmt/signature/NKillSignatureTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cc/binmt/signature/NKillSignatureTool.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +94,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApkSignatureKiller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/sun.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="工件" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -49,10 +115,22 @@
       <updated>1653310987804</updated>
       <workItem from="1653310997937" duration="1857000" />
       <workItem from="1653323396548" duration="6253000" />
+      <workItem from="1653532221521" duration="5828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
