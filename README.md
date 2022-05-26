@@ -7,7 +7,7 @@
 java -jar getSignature.jar base.apk
 ```
 
-修改AndroidManifest.xml的application入口
+修改AndroidManifest.xml的application入口：
 ```shell
 java -jar getSignature.jar AndroidManifest.xml "com.example.applicatiom"
 ```
